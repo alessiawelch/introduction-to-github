@@ -95,7 +95,7 @@ First, let's add a workflow to lint our Markdown files in this repository.
   Define terms and link to docs.github.com.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Fix the test</h2></summary>
 
 _Great job adding the templated workflow! :tada:_
@@ -181,7 +181,7 @@ Similar to the upload action to send artifacts to the storage, you can use anoth
   Define terms and link to docs.github.com.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Add branch protections</h2></summary>
 
 _Great job uploading test reports! :partying_face:_
